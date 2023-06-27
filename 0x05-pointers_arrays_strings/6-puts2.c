@@ -2,6 +2,7 @@
 
 /**
  * puts2 - prints one character out of time
+ * @str: input
  */
 void puts2(char *str)
 {
